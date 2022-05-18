@@ -1,0 +1,1 @@
+<link rel="stylesheet" media="screen" href="<?=base_url("vendor/chart/chartist.min.css")?>?t=<?=time()?>"/>

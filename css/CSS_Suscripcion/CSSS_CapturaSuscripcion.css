@@ -1,0 +1,12 @@
+.img-contacto {
+	background-image: url("../../img/coinpinver/Suscripcion/Suscripcion.jpg");
+}
+.progress-label {
+	display: block;
+	padding: .5rem 0;
+	font-size: .75rem;
+	font-weight: 600;
+}
+.progress-xs {
+	height: 2px;
+}

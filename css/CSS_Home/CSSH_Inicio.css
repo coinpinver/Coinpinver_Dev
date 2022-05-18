@@ -1,0 +1,60 @@
+#videoInicioBlock {
+    width: 100%;
+    height: 100%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#vih_linkbl {
+    position: relative;
+    left: 13%;
+    text-align: center;
+    z-index: 1;
+    top: -12em;
+}
+
+#vih_linkbl>li>span {
+    font-size: 9em;
+}
+
+#s1t1 {
+    font-size: 2.5em;
+}
+
+#blockchain_cprp_home {
+    height: 25vh;
+    width: 50%;
+}
+.sectionImgBlock {
+    height: 12%;
+}
+@media only screen and (max-width: 1200px) {
+    #vih_linkbl {
+        left: 26%;
+    }
+    #vih_linkbl>li>span {
+        font-size: 2em;
+    }
+    .sectionImgBlock {
+        height: 12em;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #blockchain_cprp_home {
+        width: 70%;
+    }
+    #vih_linkbl {
+        position: relative;
+        left: 10%;
+        text-align: center;
+        z-index: 1;
+        top: -3em;
+    }
+    #vih_linkbl>li>span {
+        font-size: 1.5em;
+    }
+    .sectionImgBlock {
+        height: 12em;
+    }
+}

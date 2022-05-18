@@ -1,0 +1,21 @@
+.step {
+	position: relative;
+}
+
+.step .step-number {
+	padding-bottom: .625rem;
+	color: white;
+	font-family: "Montserrat",sans-serif;
+	font-size: 8.625rem;
+	font-weight: 900;
+	line-height: 1;
+	text-shadow: 0 0.625rem 1.5rem rgb(64 64 64 / 50%);
+}
+
+.step .step-title {
+	position: relative;
+	margin: 0;
+	padding-bottom: 1.25rem;
+	font-size: 1.125rem;
+	font-weight: 700;
+}
